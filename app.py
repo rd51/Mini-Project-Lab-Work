@@ -10,7 +10,11 @@ def load_data():
 	return df
 
 df = load_data()
+
 df_filtered = df.copy()  # Replace with actual filtering logic if needed
+# Ensure 'line_revenue' column exists
+if 'line_revenue' not in df_filtered.columns:
+	df_filtered['line_revenue'] = df_filtered['quantity'] * df_filtered['unit_price']
 
 # Revenue by Category
 if 'product_category' in df_filtered.columns:
