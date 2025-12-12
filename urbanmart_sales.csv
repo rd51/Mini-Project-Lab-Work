@@ -1,0 +1,501 @@
+transaction_id,bill_id,date,store_id,store_location,customer_id,customer_segment,product_id,product_category,product_name,quantity,unit_price,payment_method,discount_applied,channel
+TXN-2025-0001,BILL-1001,22-02-2025,S1,Downtown,C058,Regular,P101,Beverages,Orange Juice 1L,5,3.48,UPI,0,In-store
+TXN-2025-0002,BILL-1001,30-04-2025,S5,West End,C008,Regular,P102,Beverages,Organic Green Tea 250ml,5,1.88,UPI,0.76,In-store
+TXN-2025-0003,BILL-1001,23-04-2025,S1,Downtown,C180,Regular,P501,Bakery,Whole Wheat Bread,5,1.48,Cash,0.04,In-store
+TXN-2025-0004,BILL-1001,24-06-2025,S3,Suburban,C041,New,P701,Frozen,Frozen Pizza,3,4.73,Cash,0.08,Online
+TXN-2025-0005,BILL-1001,26-06-2025,S2,Uptown,C098,Regular,P701,Frozen,Frozen Pizza,6,4.51,Credit Card,1.15,In-store
+TXN-2025-0006,BILL-1001,31-05-2025,S1,Downtown,C097,Regular,P602,Dairy,Cheddar Cheese 200g,1,2.99,Credit Card,0,In-store
+TXN-2025-0007,BILL-1001,27-04-2025,S5,West End,C181,Regular,P801,Produce,Bananas (1kg),2,1.39,Credit Card,0.06,In-store
+TXN-2025-0008,BILL-1001,22-11-2025,S1,Downtown,C098,Regular,P801,Produce,Bananas (1kg),2,1.47,Cash,0.59,Online
+TXN-2025-0009,BILL-1002,28-11-2025,S2,Uptown,C069,New,P302,Personal Care,Toothpaste 100g,1,1.82,Credit Card,0.02,In-store
+TXN-2025-0010,BILL-1002,24-11-2025,S2,Uptown,C119,Regular,P501,Bakery,Whole Wheat Bread,2,1.39,UPI,1.26,In-store
+TXN-2025-0011,BILL-1002,17-01-2025,S2,Uptown,C199,Regular,P601,Dairy,Milk 1L,4,1.06,Credit Card,1.4,Online
+TXN-2025-0012,BILL-1003,11-06-2025,S4,East Side,C146,Loyal,P301,Personal Care,Shampoo 250ml,1,3.77,Cash,0.8,In-store
+TXN-2025-0013,BILL-1003,15-10-2025,S4,East Side,C068,Regular,P401,Household,Laundry Detergent 1kg,5,6.27,UPI,0.14,In-store
+TXN-2025-0014,BILL-1003,12-03-2025,S5,West End,C057,Loyal,P401,Household,Laundry Detergent 1kg,2,6.19,UPI,1.72,In-store
+TXN-2025-0015,BILL-1003,05-08-2025,S1,Downtown,C040,New,P701,Frozen,Frozen Pizza,1,4.73,Cash,0.67,Online
+TXN-2025-0016,BILL-1003,11-10-2025,S4,East Side,C136,Regular,P401,Household,Laundry Detergent 1kg,5,7.35,UPI,1.21,Online
+TXN-2025-0017,BILL-1003,25-11-2025,S1,Downtown,C138,New,P601,Dairy,Milk 1L,6,1.15,UPI,0.71,In-store
+TXN-2025-0018,BILL-1003,15-05-2025,S3,Suburban,C185,Loyal,P401,Household,Laundry Detergent 1kg,6,6.8,Cash,1.81,In-store
+TXN-2025-0019,BILL-1003,17-09-2025,S2,Uptown,C077,New,P501,Bakery,Whole Wheat Bread,6,1.46,Cash,0,Online
+TXN-2025-0020,BILL-1003,01-01-2025,S2,Uptown,C200,Loyal,P302,Personal Care,Toothpaste 100g,6,1.63,Cash,0.09,In-store
+TXN-2025-0021,BILL-1003,04-05-2025,S4,East Side,C079,Regular,P101,Beverages,Orange Juice 1L,5,3.83,Cash,1.32,Online
+TXN-2025-0022,BILL-1003,30-09-2025,S1,Downtown,C018,Loyal,P102,Beverages,Organic Green Tea 250ml,2,2.19,UPI,1.25,In-store
+TXN-2025-0023,BILL-1003,07-11-2025,S2,Uptown,C043,Regular,P601,Dairy,Milk 1L,6,1.24,Credit Card,0,Online
+TXN-2025-0024,BILL-1003,29-11-2025,S2,Uptown,C183,Regular,P501,Bakery,Whole Wheat Bread,5,1.49,UPI,0.41,In-store
+TXN-2025-0025,BILL-1003,29-10-2025,S5,West End,C017,Regular,P402,Household,Dishwash Liquid 500ml,5,2.99,Cash,0.87,In-store
+TXN-2025-0026,BILL-1003,04-02-2025,S5,West End,C162,Regular,P202,Snacks,Salted Nuts 100g,1,2.49,Cash,0,In-store
+TXN-2025-0027,BILL-1004,04-10-2025,S3,Suburban,C172,Regular,P102,Beverages,Organic Green Tea 250ml,4,2.18,UPI,0.47,In-store
+TXN-2025-0028,BILL-1005,08-04-2025,S5,West End,C122,New,P502,Bakery,Croissant,1,0.93,Credit Card,1.75,In-store
+TXN-2025-0029,BILL-1006,27-11-2025,S4,East Side,C187,Regular,P302,Personal Care,Toothpaste 100g,4,1.63,Credit Card,2.61,In-store
+TXN-2025-0030,BILL-1006,08-04-2025,S4,East Side,C028,Regular,P602,Dairy,Cheddar Cheese 200g,2,3.44,Credit Card,0,Online
+TXN-2025-0031,BILL-1006,08-02-2025,S2,Uptown,C064,Loyal,P401,Household,Laundry Detergent 1kg,2,6.26,Cash,0.61,In-store
+TXN-2025-0032,BILL-1006,17-02-2025,S5,West End,C139,New,P102,Beverages,Organic Green Tea 250ml,1,2.15,Cash,0.99,In-store
+TXN-2025-0033,BILL-1007,31-01-2025,S2,Uptown,C055,Loyal,P201,Snacks,Potato Chips 150g,6,1.27,Credit Card,0.42,In-store
+TXN-2025-0034,BILL-1007,12-10-2025,S1,Downtown,C117,Regular,P401,Household,Laundry Detergent 1kg,2,6.2,Credit Card,0,Online
+TXN-2025-0035,BILL-1008,05-10-2025,S4,East Side,C015,Regular,P201,Snacks,Potato Chips 150g,4,1.35,Cash,0.25,In-store
+TXN-2025-0036,BILL-1009,29-09-2025,S3,Suburban,C129,Loyal,P101,Beverages,Orange Juice 1L,6,3.25,Cash,1.04,In-store
+TXN-2025-0037,BILL-1009,01-05-2025,S5,West End,C018,New,P102,Beverages,Organic Green Tea 250ml,6,2.12,Cash,0.74,In-store
+TXN-2025-0038,BILL-1009,26-10-2025,S5,West End,C159,Regular,P202,Snacks,Salted Nuts 100g,5,2.25,UPI,0.71,In-store
+TXN-2025-0039,BILL-1010,22-07-2025,S3,Suburban,C081,Regular,P301,Personal Care,Shampoo 250ml,2,4.13,Cash,0,In-store
+TXN-2025-0040,BILL-1010,15-11-2025,S3,Suburban,C019,Regular,P402,Household,Dishwash Liquid 500ml,3,2.69,Credit Card,1.23,Online
+TXN-2025-0041,BILL-1010,28-06-2025,S1,Downtown,C068,Regular,P102,Beverages,Organic Green Tea 250ml,5,1.91,UPI,0,In-store
+TXN-2025-0042,BILL-1010,10-11-2025,S2,Uptown,C140,New,P302,Personal Care,Toothpaste 100g,2,2.06,Credit Card,1.62,In-store
+TXN-2025-0043,BILL-1010,23-02-2025,S5,West End,C077,Loyal,P101,Beverages,Orange Juice 1L,4,3.37,UPI,0,Online
+TXN-2025-0044,BILL-1010,20-05-2025,S2,Uptown,C191,Regular,P301,Personal Care,Shampoo 250ml,1,3.88,Cash,0.48,Online
+TXN-2025-0045,BILL-1010,16-09-2025,S2,Uptown,C163,Loyal,P602,Dairy,Cheddar Cheese 200g,1,3.09,Credit Card,0,In-store
+TXN-2025-0046,BILL-1010,20-06-2025,S1,Downtown,C071,Regular,P102,Beverages,Organic Green Tea 250ml,1,1.94,UPI,0.5,In-store
+TXN-2025-0047,BILL-1011,05-01-2025,S3,Suburban,C181,Regular,P201,Snacks,Potato Chips 150g,1,1.27,UPI,0,In-store
+TXN-2025-0048,BILL-1012,09-08-2025,S2,Uptown,C150,Regular,P501,Bakery,Whole Wheat Bread,4,1.56,Cash,1.68,Online
+TXN-2025-0049,BILL-1012,22-02-2025,S3,Suburban,C054,New,P302,Personal Care,Toothpaste 100g,5,1.92,Cash,1.13,Online
+TXN-2025-0050,BILL-1012,02-05-2025,S5,West End,C192,Regular,P801,Produce,Bananas (1kg),2,1.39,Credit Card,0,Online
+TXN-2025-0051,BILL-1012,30-07-2025,S2,Uptown,C086,New,P401,Household,Laundry Detergent 1kg,3,7.45,Cash,0,In-store
+TXN-2025-0052,BILL-1012,20-01-2025,S2,Uptown,C028,Regular,P301,Personal Care,Shampoo 250ml,3,4.44,Cash,0.56,Online
+TXN-2025-0053,BILL-1012,09-04-2025,S2,Uptown,C059,Regular,P202,Snacks,Salted Nuts 100g,1,2.68,Credit Card,1.87,In-store
+TXN-2025-0054,BILL-1012,18-09-2025,S3,Suburban,C072,Regular,P801,Produce,Bananas (1kg),1,1.27,Cash,1.2,Online
+TXN-2025-0055,BILL-1013,16-05-2025,S5,West End,C067,Regular,P302,Personal Care,Toothpaste 100g,2,1.98,Cash,0,In-store
+TXN-2025-0056,BILL-1014,19-09-2025,S5,West End,C081,Regular,P401,Household,Laundry Detergent 1kg,4,6.97,Credit Card,0.88,In-store
+TXN-2025-0057,BILL-1014,03-10-2025,S5,West End,C112,Regular,P202,Snacks,Salted Nuts 100g,1,2.84,Credit Card,1.44,In-store
+TXN-2025-0058,BILL-1014,16-11-2025,S2,Uptown,C171,Loyal,P302,Personal Care,Toothpaste 100g,1,1.71,Credit Card,1.2,In-store
+TXN-2025-0059,BILL-1014,26-07-2025,S1,Downtown,C171,Regular,P602,Dairy,Cheddar Cheese 200g,6,3.06,Credit Card,0,In-store
+TXN-2025-0060,BILL-1014,31-03-2025,S5,West End,C098,New,P201,Snacks,Potato Chips 150g,2,1.38,Cash,0.6,In-store
+TXN-2025-0061,BILL-1014,09-08-2025,S3,Suburban,C078,Regular,P401,Household,Laundry Detergent 1kg,4,7.31,UPI,0,Online
+TXN-2025-0062,BILL-1014,19-09-2025,S5,West End,C114,New,P601,Dairy,Milk 1L,1,1.19,Credit Card,0,In-store
+TXN-2025-0063,BILL-1015,21-06-2025,S2,Uptown,C170,New,P601,Dairy,Milk 1L,3,1.23,Cash,0.99,In-store
+TXN-2025-0064,BILL-1016,24-01-2025,S2,Uptown,C051,Regular,P601,Dairy,Milk 1L,5,1.01,Credit Card,1.47,In-store
+TXN-2025-0065,BILL-1016,16-07-2025,S4,East Side,C162,Regular,P502,Bakery,Croissant,5,0.99,Cash,0.73,In-store
+TXN-2025-0066,BILL-1016,24-02-2025,S2,Uptown,C193,Loyal,P201,Snacks,Potato Chips 150g,1,1.08,UPI,0,In-store
+TXN-2025-0067,BILL-1016,04-03-2025,S2,Uptown,C013,Regular,P201,Snacks,Potato Chips 150g,1,1.23,UPI,0,In-store
+TXN-2025-0068,BILL-1016,15-08-2025,S4,East Side,C153,Regular,P601,Dairy,Milk 1L,1,1.19,UPI,1.03,Online
+TXN-2025-0069,BILL-1016,01-09-2025,S5,West End,C041,New,P401,Household,Laundry Detergent 1kg,2,6.65,UPI,1.57,In-store
+TXN-2025-0070,BILL-1017,17-11-2025,S2,Uptown,C200,Regular,P801,Produce,Bananas (1kg),1,1.51,UPI,0,In-store
+TXN-2025-0071,BILL-1018,04-10-2025,S4,East Side,C070,Regular,P102,Beverages,Organic Green Tea 250ml,1,2.07,UPI,0,In-store
+TXN-2025-0072,BILL-1018,01-08-2025,S2,Uptown,C181,Regular,P202,Snacks,Salted Nuts 100g,3,2.62,Credit Card,1.08,In-store
+TXN-2025-0073,BILL-1018,27-10-2025,S5,West End,C108,Regular,P402,Household,Dishwash Liquid 500ml,3,2.8,Credit Card,0.39,In-store
+TXN-2025-0074,BILL-1018,02-06-2025,S1,Downtown,C002,Loyal,P801,Produce,Bananas (1kg),1,1.38,UPI,1.2,In-store
+TXN-2025-0075,BILL-1019,07-09-2025,S4,East Side,C155,Loyal,P501,Bakery,Whole Wheat Bread,1,1.57,UPI,1,In-store
+TXN-2025-0076,BILL-1019,27-07-2025,S4,East Side,C172,New,P402,Household,Dishwash Liquid 500ml,1,2.72,Cash,0,In-store
+TXN-2025-0077,BILL-1020,14-01-2025,S4,East Side,C101,Regular,P201,Snacks,Potato Chips 150g,1,1.31,UPI,0.49,In-store
+TXN-2025-0078,BILL-1020,19-04-2025,S4,East Side,C067,Regular,P201,Snacks,Potato Chips 150g,3,1.16,Credit Card,0.65,In-store
+TXN-2025-0079,BILL-1020,11-02-2025,S3,Suburban,C108,Regular,P701,Frozen,Frozen Pizza,6,4.96,Credit Card,0.4,In-store
+TXN-2025-0080,BILL-1021,30-11-2025,S5,West End,C018,New,P101,Beverages,Orange Juice 1L,1,3.63,Credit Card,0.77,In-store
+TXN-2025-0081,BILL-1021,06-03-2025,S1,Downtown,C160,Regular,P202,Snacks,Salted Nuts 100g,2,2.86,Cash,0,Online
+TXN-2025-0082,BILL-1021,27-03-2025,S1,Downtown,C066,New,P502,Bakery,Croissant,1,1,Cash,0,In-store
+TXN-2025-0083,BILL-1021,09-06-2025,S1,Downtown,C028,Regular,P701,Frozen,Frozen Pizza,6,4.71,Cash,1.38,Online
+TXN-2025-0084,BILL-1022,18-11-2025,S4,East Side,C152,New,P401,Household,Laundry Detergent 1kg,5,7.36,UPI,0.23,In-store
+TXN-2025-0085,BILL-1022,17-10-2025,S3,Suburban,C031,New,P801,Produce,Bananas (1kg),3,1.33,UPI,0,In-store
+TXN-2025-0086,BILL-1023,24-06-2025,S3,Suburban,C018,Regular,P501,Bakery,Whole Wheat Bread,1,1.46,Credit Card,0,In-store
+TXN-2025-0087,BILL-1023,24-08-2025,S4,East Side,C093,New,P801,Produce,Bananas (1kg),6,1.56,Credit Card,0,In-store
+TXN-2025-0088,BILL-1023,03-10-2025,S4,East Side,C167,Regular,P201,Snacks,Potato Chips 150g,4,1.17,UPI,1.61,In-store
+TXN-2025-0089,BILL-1023,14-02-2025,S4,East Side,C083,Loyal,P401,Household,Laundry Detergent 1kg,1,6.53,UPI,0.91,In-store
+TXN-2025-0090,BILL-1023,15-01-2025,S4,East Side,C172,Regular,P202,Snacks,Salted Nuts 100g,1,2.75,Credit Card,3.58,In-store
+TXN-2025-0091,BILL-1023,02-11-2025,S3,Suburban,C067,Regular,P201,Snacks,Potato Chips 150g,1,1.1,Credit Card,0,In-store
+TXN-2025-0092,BILL-1023,28-07-2025,S3,Suburban,C049,Regular,P501,Bakery,Whole Wheat Bread,4,1.39,Cash,0,In-store
+TXN-2025-0093,BILL-1024,09-01-2025,S2,Uptown,C126,Regular,P602,Dairy,Cheddar Cheese 200g,1,3.42,Credit Card,2.35,In-store
+TXN-2025-0094,BILL-1024,31-08-2025,S2,Uptown,C170,Regular,P401,Household,Laundry Detergent 1kg,3,6.32,UPI,0,In-store
+TXN-2025-0095,BILL-1024,19-05-2025,S3,Suburban,C091,New,P401,Household,Laundry Detergent 1kg,3,6.26,UPI,0.78,In-store
+TXN-2025-0096,BILL-1025,05-04-2025,S2,Uptown,C031,New,P102,Beverages,Organic Green Tea 250ml,5,1.96,UPI,0,In-store
+TXN-2025-0097,BILL-1025,25-05-2025,S4,East Side,C195,Regular,P301,Personal Care,Shampoo 250ml,2,4.37,UPI,1.47,In-store
+TXN-2025-0098,BILL-1026,01-10-2025,S2,Uptown,C078,Regular,P301,Personal Care,Shampoo 250ml,1,3.79,Cash,0.38,In-store
+TXN-2025-0099,BILL-1027,09-09-2025,S1,Downtown,C033,New,P101,Beverages,Orange Juice 1L,2,3.71,UPI,0,In-store
+TXN-2025-0100,BILL-1027,27-01-2025,S1,Downtown,C113,Regular,P502,Bakery,Croissant,2,0.98,Credit Card,0,In-store
+TXN-2025-0101,BILL-1028,28-01-2025,S4,East Side,C019,Regular,P102,Beverages,Organic Green Tea 250ml,4,1.89,Cash,1.93,In-store
+TXN-2025-0102,BILL-1028,02-08-2025,S5,West End,C031,Regular,P301,Personal Care,Shampoo 250ml,1,3.66,Cash,0,Online
+TXN-2025-0103,BILL-1028,29-10-2025,S5,West End,C114,Regular,P202,Snacks,Salted Nuts 100g,3,2.53,UPI,1.26,In-store
+TXN-2025-0104,BILL-1028,17-04-2025,S3,Suburban,C190,Regular,P502,Bakery,Croissant,4,0.87,UPI,1.51,In-store
+TXN-2025-0105,BILL-1029,22-03-2025,S3,Suburban,C045,Regular,P601,Dairy,Milk 1L,2,1.17,Cash,0,In-store
+TXN-2025-0106,BILL-1029,25-05-2025,S4,East Side,C009,Regular,P602,Dairy,Cheddar Cheese 200g,1,3.08,UPI,1.97,In-store
+TXN-2025-0107,BILL-1029,17-11-2025,S4,East Side,C068,New,P102,Beverages,Organic Green Tea 250ml,6,2.18,UPI,0,In-store
+TXN-2025-0108,BILL-1029,17-05-2025,S2,Uptown,C166,Regular,P401,Household,Laundry Detergent 1kg,2,6,Cash,0.29,In-store
+TXN-2025-0109,BILL-1029,19-10-2025,S1,Downtown,C153,New,P101,Beverages,Orange Juice 1L,2,3.3,Cash,0,Online
+TXN-2025-0110,BILL-1029,20-05-2025,S4,East Side,C180,Regular,P102,Beverages,Organic Green Tea 250ml,4,2.02,Credit Card,0.42,In-store
+TXN-2025-0111,BILL-1029,06-11-2025,S4,East Side,C111,New,P402,Household,Dishwash Liquid 500ml,3,2.55,Cash,0.15,In-store
+TXN-2025-0112,BILL-1029,11-01-2025,S1,Downtown,C148,Regular,P202,Snacks,Salted Nuts 100g,1,2.48,UPI,0.6,Online
+TXN-2025-0113,BILL-1029,30-11-2025,S3,Suburban,C045,Regular,P502,Bakery,Croissant,1,0.92,Cash,2.05,Online
+TXN-2025-0114,BILL-1029,29-08-2025,S3,Suburban,C126,Loyal,P201,Snacks,Potato Chips 150g,4,1.26,UPI,0.83,In-store
+TXN-2025-0115,BILL-1029,11-09-2025,S3,Suburban,C042,Regular,P302,Personal Care,Toothpaste 100g,2,2.04,UPI,0,In-store
+TXN-2025-0116,BILL-1030,15-06-2025,S4,East Side,C023,Regular,P801,Produce,Bananas (1kg),1,1.49,UPI,1.52,In-store
+TXN-2025-0117,BILL-1030,05-10-2025,S4,East Side,C001,New,P801,Produce,Bananas (1kg),2,1.54,UPI,1.41,Online
+TXN-2025-0118,BILL-1030,15-08-2025,S1,Downtown,C194,Regular,P202,Snacks,Salted Nuts 100g,1,2.66,UPI,0.86,In-store
+TXN-2025-0119,BILL-1031,06-09-2025,S2,Uptown,C074,Regular,P301,Personal Care,Shampoo 250ml,1,3.64,UPI,0.11,In-store
+TXN-2025-0120,BILL-1031,10-10-2025,S5,West End,C080,Regular,P701,Frozen,Frozen Pizza,1,4.9,Cash,0.67,In-store
+TXN-2025-0121,BILL-1031,20-03-2025,S2,Uptown,C031,New,P801,Produce,Bananas (1kg),4,1.35,Cash,0.79,In-store
+TXN-2025-0122,BILL-1031,05-05-2025,S3,Suburban,C124,Loyal,P501,Bakery,Whole Wheat Bread,5,1.59,UPI,0,In-store
+TXN-2025-0123,BILL-1031,11-03-2025,S2,Uptown,C131,New,P401,Household,Laundry Detergent 1kg,2,7.04,Cash,0.54,Online
+TXN-2025-0124,BILL-1031,02-01-2025,S3,Suburban,C130,Regular,P701,Frozen,Frozen Pizza,5,5.03,Credit Card,0.9,In-store
+TXN-2025-0125,BILL-1031,18-03-2025,S3,Suburban,C169,Regular,P801,Produce,Bananas (1kg),1,1.54,UPI,0.01,In-store
+TXN-2025-0126,BILL-1031,14-06-2025,S4,East Side,C140,Regular,P302,Personal Care,Toothpaste 100g,5,1.73,Credit Card,0.81,In-store
+TXN-2025-0127,BILL-1031,12-06-2025,S2,Uptown,C199,Regular,P502,Bakery,Croissant,2,1.01,Credit Card,1.11,In-store
+TXN-2025-0128,BILL-1031,11-09-2025,S4,East Side,C167,Loyal,P401,Household,Laundry Detergent 1kg,1,7.05,UPI,0,Online
+TXN-2025-0129,BILL-1032,14-08-2025,S2,Uptown,C026,Loyal,P501,Bakery,Whole Wheat Bread,1,1.39,UPI,0.24,In-store
+TXN-2025-0130,BILL-1032,08-02-2025,S4,East Side,C168,Loyal,P101,Beverages,Orange Juice 1L,1,3.49,UPI,3.1,In-store
+TXN-2025-0131,BILL-1032,18-06-2025,S3,Suburban,C167,Regular,P302,Personal Care,Toothpaste 100g,6,1.8,UPI,0.17,In-store
+TXN-2025-0132,BILL-1033,05-10-2025,S5,West End,C195,Regular,P401,Household,Laundry Detergent 1kg,2,7.4,Credit Card,1.29,In-store
+TXN-2025-0133,BILL-1033,16-02-2025,S1,Downtown,C074,Loyal,P202,Snacks,Salted Nuts 100g,2,2.61,UPI,0.66,In-store
+TXN-2025-0134,BILL-1033,03-06-2025,S1,Downtown,C026,Regular,P701,Frozen,Frozen Pizza,2,5.19,UPI,0,In-store
+TXN-2025-0135,BILL-1033,06-05-2025,S1,Downtown,C096,Regular,P302,Personal Care,Toothpaste 100g,4,1.96,Cash,0.23,In-store
+TXN-2025-0136,BILL-1033,15-07-2025,S5,West End,C021,New,P601,Dairy,Milk 1L,4,1.25,Cash,0.7,In-store
+TXN-2025-0137,BILL-1033,24-08-2025,S2,Uptown,C119,New,P402,Household,Dishwash Liquid 500ml,2,3.22,UPI,0.76,In-store
+TXN-2025-0138,BILL-1033,07-02-2025,S1,Downtown,C174,Regular,P701,Frozen,Frozen Pizza,6,5.38,Credit Card,1.84,Online
+TXN-2025-0139,BILL-1033,22-08-2025,S3,Suburban,C109,New,P502,Bakery,Croissant,1,0.98,Credit Card,0.15,In-store
+TXN-2025-0140,BILL-1033,22-10-2025,S2,Uptown,C098,Regular,P401,Household,Laundry Detergent 1kg,1,7.19,Credit Card,0.66,In-store
+TXN-2025-0141,BILL-1033,26-01-2025,S3,Suburban,C003,Regular,P101,Beverages,Orange Juice 1L,2,3.22,UPI,0.86,In-store
+TXN-2025-0142,BILL-1034,30-06-2025,S4,East Side,C059,New,P801,Produce,Bananas (1kg),3,1.56,Credit Card,0,Online
+TXN-2025-0143,BILL-1034,12-03-2025,S2,Uptown,C185,New,P502,Bakery,Croissant,4,0.99,Credit Card,0,In-store
+TXN-2025-0144,BILL-1034,16-02-2025,S1,Downtown,C094,New,P301,Personal Care,Shampoo 250ml,3,4.38,Credit Card,0.33,In-store
+TXN-2025-0145,BILL-1034,07-07-2025,S3,Suburban,C034,New,P602,Dairy,Cheddar Cheese 200g,1,3.44,Credit Card,0.48,In-store
+TXN-2025-0146,BILL-1034,01-06-2025,S3,Suburban,C124,Loyal,P801,Produce,Bananas (1kg),2,1.26,Cash,0,In-store
+TXN-2025-0147,BILL-1034,26-04-2025,S3,Suburban,C020,Regular,P701,Frozen,Frozen Pizza,6,4.65,Cash,1.17,In-store
+TXN-2025-0148,BILL-1035,02-10-2025,S4,East Side,C102,Regular,P801,Produce,Bananas (1kg),6,1.34,UPI,1.41,In-store
+TXN-2025-0149,BILL-1035,23-11-2025,S3,Suburban,C150,Regular,P601,Dairy,Milk 1L,1,1.09,UPI,0.55,In-store
+TXN-2025-0150,BILL-1035,15-10-2025,S1,Downtown,C159,Loyal,P601,Dairy,Milk 1L,2,1.11,Cash,0,In-store
+TXN-2025-0151,BILL-1035,04-06-2025,S5,West End,C119,Loyal,P202,Snacks,Salted Nuts 100g,2,2.28,UPI,0.88,In-store
+TXN-2025-0152,BILL-1036,01-03-2025,S1,Downtown,C078,Loyal,P201,Snacks,Potato Chips 150g,6,1.24,Cash,0.54,Online
+TXN-2025-0153,BILL-1036,04-10-2025,S5,West End,C172,Loyal,P201,Snacks,Potato Chips 150g,1,1.15,Credit Card,1.46,In-store
+TXN-2025-0154,BILL-1037,24-05-2025,S2,Uptown,C126,New,P401,Household,Laundry Detergent 1kg,6,7.31,UPI,1.95,In-store
+TXN-2025-0155,BILL-1037,20-02-2025,S3,Suburban,C061,Loyal,P202,Snacks,Salted Nuts 100g,5,2.82,Credit Card,0,In-store
+TXN-2025-0156,BILL-1037,04-03-2025,S3,Suburban,C102,Regular,P501,Bakery,Whole Wheat Bread,2,1.48,UPI,0.31,In-store
+TXN-2025-0157,BILL-1038,11-01-2025,S4,East Side,C164,Regular,P102,Beverages,Organic Green Tea 250ml,1,2.03,UPI,0,In-store
+TXN-2025-0158,BILL-1039,11-10-2025,S3,Suburban,C053,Regular,P202,Snacks,Salted Nuts 100g,3,2.41,Cash,0,Online
+TXN-2025-0159,BILL-1040,02-11-2025,S2,Uptown,C038,New,P801,Produce,Bananas (1kg),6,1.27,Cash,1.26,In-store
+TXN-2025-0160,BILL-1041,14-01-2025,S2,Uptown,C045,Regular,P201,Snacks,Potato Chips 150g,1,1.29,UPI,0.04,In-store
+TXN-2025-0161,BILL-1042,27-01-2025,S3,Suburban,C005,Regular,P701,Frozen,Frozen Pizza,1,5.53,Cash,1.85,In-store
+TXN-2025-0162,BILL-1042,05-07-2025,S4,East Side,C122,Regular,P501,Bakery,Whole Wheat Bread,5,1.69,Cash,0,In-store
+TXN-2025-0163,BILL-1042,24-09-2025,S1,Downtown,C158,Regular,P402,Household,Dishwash Liquid 500ml,2,3.13,UPI,0.44,In-store
+TXN-2025-0164,BILL-1042,09-09-2025,S1,Downtown,C110,New,P101,Beverages,Orange Juice 1L,1,3.86,Credit Card,0.27,Online
+TXN-2025-0165,BILL-1042,21-05-2025,S4,East Side,C038,Regular,P102,Beverages,Organic Green Tea 250ml,6,1.99,Cash,0.41,In-store
+TXN-2025-0166,BILL-1042,21-08-2025,S5,West End,C153,Regular,P501,Bakery,Whole Wheat Bread,1,1.51,UPI,1.49,In-store
+TXN-2025-0167,BILL-1042,10-10-2025,S4,East Side,C168,New,P102,Beverages,Organic Green Tea 250ml,4,1.81,UPI,0.71,In-store
+TXN-2025-0168,BILL-1042,21-08-2025,S2,Uptown,C106,Regular,P401,Household,Laundry Detergent 1kg,3,7.47,Credit Card,0.74,Online
+TXN-2025-0169,BILL-1042,20-03-2025,S1,Downtown,C066,Regular,P302,Personal Care,Toothpaste 100g,4,2.03,Credit Card,0.14,In-store
+TXN-2025-0170,BILL-1042,10-07-2025,S4,East Side,C024,Regular,P102,Beverages,Organic Green Tea 250ml,1,2.03,Cash,1,Online
+TXN-2025-0171,BILL-1042,04-03-2025,S5,West End,C144,Regular,P101,Beverages,Orange Juice 1L,2,3.98,UPI,1.07,Online
+TXN-2025-0172,BILL-1043,30-06-2025,S4,East Side,C074,New,P801,Produce,Bananas (1kg),5,1.48,UPI,0,In-store
+TXN-2025-0173,BILL-1043,29-06-2025,S5,West End,C058,New,P202,Snacks,Salted Nuts 100g,1,2.26,Cash,1.52,In-store
+TXN-2025-0174,BILL-1043,15-11-2025,S3,Suburban,C110,New,P102,Beverages,Organic Green Tea 250ml,1,1.95,Credit Card,0.43,In-store
+TXN-2025-0175,BILL-1043,03-04-2025,S5,West End,C178,Regular,P101,Beverages,Orange Juice 1L,2,3.63,UPI,0.05,Online
+TXN-2025-0176,BILL-1044,25-07-2025,S3,Suburban,C037,Regular,P302,Personal Care,Toothpaste 100g,2,1.81,Credit Card,2.53,In-store
+TXN-2025-0177,BILL-1045,24-06-2025,S1,Downtown,C097,Regular,P102,Beverages,Organic Green Tea 250ml,1,2.11,UPI,0.66,In-store
+TXN-2025-0178,BILL-1046,27-01-2025,S3,Suburban,C146,Regular,P602,Dairy,Cheddar Cheese 200g,1,3.37,Credit Card,0.54,Online
+TXN-2025-0179,BILL-1046,06-09-2025,S5,West End,C114,New,P101,Beverages,Orange Juice 1L,1,3.49,UPI,0.28,In-store
+TXN-2025-0180,BILL-1046,26-02-2025,S4,East Side,C030,Regular,P301,Personal Care,Shampoo 250ml,5,4.11,Cash,1.07,Online
+TXN-2025-0181,BILL-1047,03-11-2025,S5,West End,C012,Regular,P402,Household,Dishwash Liquid 500ml,4,3.16,UPI,2.02,In-store
+TXN-2025-0182,BILL-1048,17-06-2025,S2,Uptown,C196,Regular,P301,Personal Care,Shampoo 250ml,5,4.4,Cash,0.68,Online
+TXN-2025-0183,BILL-1048,28-04-2025,S4,East Side,C098,Regular,P602,Dairy,Cheddar Cheese 200g,1,3.55,Credit Card,0.27,In-store
+TXN-2025-0184,BILL-1048,24-08-2025,S3,Suburban,C011,Regular,P102,Beverages,Organic Green Tea 250ml,2,2.29,Credit Card,0,Online
+TXN-2025-0185,BILL-1049,29-05-2025,S3,Suburban,C182,New,P502,Bakery,Croissant,1,0.89,Credit Card,0,In-store
+TXN-2025-0186,BILL-1050,05-07-2025,S1,Downtown,C159,Regular,P302,Personal Care,Toothpaste 100g,3,1.88,Cash,2.13,Online
+TXN-2025-0187,BILL-1050,08-06-2025,S1,Downtown,C135,Regular,P202,Snacks,Salted Nuts 100g,2,2.69,Credit Card,0.09,In-store
+TXN-2025-0188,BILL-1051,19-09-2025,S2,Uptown,C163,Regular,P302,Personal Care,Toothpaste 100g,1,2.02,Cash,0,In-store
+TXN-2025-0189,BILL-1052,01-05-2025,S3,Suburban,C166,New,P302,Personal Care,Toothpaste 100g,1,1.85,UPI,0,Online
+TXN-2025-0190,BILL-1053,08-02-2025,S3,Suburban,C195,New,P202,Snacks,Salted Nuts 100g,1,2.76,Cash,0.9,In-store
+TXN-2025-0191,BILL-1053,17-10-2025,S4,East Side,C115,New,P402,Household,Dishwash Liquid 500ml,3,2.72,UPI,0,Online
+TXN-2025-0192,BILL-1053,15-08-2025,S5,West End,C113,Regular,P302,Personal Care,Toothpaste 100g,6,1.78,UPI,0.35,In-store
+TXN-2025-0193,BILL-1054,20-08-2025,S3,Suburban,C019,Regular,P502,Bakery,Croissant,6,0.83,Cash,0.6,In-store
+TXN-2025-0194,BILL-1054,17-09-2025,S3,Suburban,C024,New,P801,Produce,Bananas (1kg),1,1.31,Credit Card,2.08,In-store
+TXN-2025-0195,BILL-1054,20-10-2025,S5,West End,C116,Loyal,P501,Bakery,Whole Wheat Bread,1,1.45,UPI,0.65,Online
+TXN-2025-0196,BILL-1054,25-06-2025,S3,Suburban,C016,Regular,P502,Bakery,Croissant,5,1.03,Credit Card,0,In-store
+TXN-2025-0197,BILL-1054,13-08-2025,S1,Downtown,C064,New,P501,Bakery,Whole Wheat Bread,4,1.53,UPI,1.92,In-store
+TXN-2025-0198,BILL-1054,23-06-2025,S5,West End,C073,Regular,P201,Snacks,Potato Chips 150g,5,1.1,Credit Card,0.7,In-store
+TXN-2025-0199,BILL-1054,13-10-2025,S1,Downtown,C017,Regular,P701,Frozen,Frozen Pizza,1,4.67,UPI,0.52,In-store
+TXN-2025-0200,BILL-1055,20-06-2025,S3,Suburban,C155,Loyal,P301,Personal Care,Shampoo 250ml,1,4.13,UPI,1.27,Online
+TXN-2025-0201,BILL-1055,08-03-2025,S2,Uptown,C179,New,P302,Personal Care,Toothpaste 100g,1,1.82,Credit Card,0,Online
+TXN-2025-0202,BILL-1056,27-09-2025,S1,Downtown,C085,New,P301,Personal Care,Shampoo 250ml,4,4.34,UPI,0.32,In-store
+TXN-2025-0203,BILL-1056,20-04-2025,S4,East Side,C080,Regular,P501,Bakery,Whole Wheat Bread,4,1.47,Credit Card,0.56,In-store
+TXN-2025-0204,BILL-1056,21-02-2025,S4,East Side,C040,Regular,P202,Snacks,Salted Nuts 100g,2,2.4,Cash,0,Online
+TXN-2025-0205,BILL-1057,13-11-2025,S5,West End,C010,New,P801,Produce,Bananas (1kg),1,1.43,UPI,0.26,Online
+TXN-2025-0206,BILL-1057,26-03-2025,S4,East Side,C178,New,P201,Snacks,Potato Chips 150g,3,1.26,Cash,2.24,In-store
+TXN-2025-0207,BILL-1057,09-11-2025,S1,Downtown,C061,Loyal,P401,Household,Laundry Detergent 1kg,5,6.8,Credit Card,1.68,In-store
+TXN-2025-0208,BILL-1057,10-04-2025,S4,East Side,C121,Loyal,P202,Snacks,Salted Nuts 100g,2,2.49,UPI,2.09,In-store
+TXN-2025-0209,BILL-1057,28-09-2025,S5,West End,C200,Regular,P402,Household,Dishwash Liquid 500ml,1,2.77,Credit Card,0.49,Online
+TXN-2025-0210,BILL-1057,27-01-2025,S2,Uptown,C036,Loyal,P801,Produce,Bananas (1kg),6,1.38,Cash,0,Online
+TXN-2025-0211,BILL-1058,26-05-2025,S3,Suburban,C133,Loyal,P501,Bakery,Whole Wheat Bread,3,1.44,Cash,0.01,In-store
+TXN-2025-0212,BILL-1058,16-02-2025,S2,Uptown,C038,New,P301,Personal Care,Shampoo 250ml,5,4.09,Credit Card,0,Online
+TXN-2025-0213,BILL-1058,22-07-2025,S2,Uptown,C007,Regular,P801,Produce,Bananas (1kg),4,1.57,Credit Card,0.64,Online
+TXN-2025-0214,BILL-1058,20-02-2025,S2,Uptown,C008,Regular,P401,Household,Laundry Detergent 1kg,3,7.34,Cash,1.23,In-store
+TXN-2025-0215,BILL-1058,30-08-2025,S3,Suburban,C074,Loyal,P701,Frozen,Frozen Pizza,5,5.72,Cash,1.15,In-store
+TXN-2025-0216,BILL-1059,10-02-2025,S2,Uptown,C158,Regular,P701,Frozen,Frozen Pizza,5,5.4,UPI,0.95,In-store
+TXN-2025-0217,BILL-1060,05-08-2025,S2,Uptown,C187,New,P801,Produce,Bananas (1kg),2,1.43,Cash,0.05,In-store
+TXN-2025-0218,BILL-1060,15-11-2025,S3,Suburban,C062,Regular,P202,Snacks,Salted Nuts 100g,1,2.52,Credit Card,0,In-store
+TXN-2025-0219,BILL-1061,22-10-2025,S1,Downtown,C005,New,P801,Produce,Bananas (1kg),1,1.52,Credit Card,0,In-store
+TXN-2025-0220,BILL-1062,02-08-2025,S2,Uptown,C091,Regular,P301,Personal Care,Shampoo 250ml,2,4.18,Credit Card,1.14,In-store
+TXN-2025-0221,BILL-1062,17-09-2025,S1,Downtown,C135,Regular,P501,Bakery,Whole Wheat Bread,1,1.47,Credit Card,0.38,In-store
+TXN-2025-0222,BILL-1062,10-05-2025,S4,East Side,C100,Loyal,P801,Produce,Bananas (1kg),4,1.31,Credit Card,0.17,In-store
+TXN-2025-0223,BILL-1062,23-02-2025,S3,Suburban,C188,New,P701,Frozen,Frozen Pizza,1,5.19,Cash,1.31,In-store
+TXN-2025-0224,BILL-1062,31-03-2025,S3,Suburban,C087,New,P201,Snacks,Potato Chips 150g,2,1.16,Cash,0.04,In-store
+TXN-2025-0225,BILL-1063,23-08-2025,S4,East Side,C035,Regular,P602,Dairy,Cheddar Cheese 200g,6,2.88,Credit Card,0,In-store
+TXN-2025-0226,BILL-1063,21-09-2025,S2,Uptown,C081,Loyal,P101,Beverages,Orange Juice 1L,1,3.51,Cash,2.45,Online
+TXN-2025-0227,BILL-1063,02-07-2025,S5,West End,C166,Regular,P402,Household,Dishwash Liquid 500ml,1,3.12,Credit Card,0.8,In-store
+TXN-2025-0228,BILL-1063,12-08-2025,S1,Downtown,C032,New,P801,Produce,Bananas (1kg),1,1.59,UPI,0.02,In-store
+TXN-2025-0229,BILL-1063,08-07-2025,S4,East Side,C128,New,P401,Household,Laundry Detergent 1kg,5,5.96,Credit Card,0.96,Online
+TXN-2025-0230,BILL-1063,03-04-2025,S5,West End,C021,Regular,P301,Personal Care,Shampoo 250ml,1,4.35,Cash,0.9,In-store
+TXN-2025-0231,BILL-1063,05-11-2025,S3,Suburban,C076,Regular,P102,Beverages,Organic Green Tea 250ml,2,1.88,Cash,1.02,In-store
+TXN-2025-0232,BILL-1063,30-06-2025,S2,Uptown,C011,New,P602,Dairy,Cheddar Cheese 200g,6,3.61,Credit Card,0,In-store
+TXN-2025-0233,BILL-1063,23-11-2025,S4,East Side,C015,Regular,P301,Personal Care,Shampoo 250ml,6,4.48,UPI,0.1,Online
+TXN-2025-0234,BILL-1063,08-11-2025,S5,West End,C008,Regular,P701,Frozen,Frozen Pizza,1,5.39,UPI,2.03,In-store
+TXN-2025-0235,BILL-1063,05-07-2025,S4,East Side,C200,New,P101,Beverages,Orange Juice 1L,1,3.7,Cash,0.51,In-store
+TXN-2025-0236,BILL-1063,10-07-2025,S5,West End,C116,Loyal,P101,Beverages,Orange Juice 1L,1,3.35,UPI,1.84,In-store
+TXN-2025-0237,BILL-1064,23-05-2025,S1,Downtown,C102,Regular,P502,Bakery,Croissant,1,0.9,Cash,1.21,In-store
+TXN-2025-0238,BILL-1065,15-10-2025,S1,Downtown,C133,Regular,P101,Beverages,Orange Juice 1L,1,3.7,UPI,0.58,In-store
+TXN-2025-0239,BILL-1066,09-09-2025,S3,Suburban,C157,Regular,P602,Dairy,Cheddar Cheese 200g,1,3.23,Credit Card,0,In-store
+TXN-2025-0240,BILL-1066,14-02-2025,S2,Uptown,C183,Regular,P801,Produce,Bananas (1kg),1,1.31,Cash,1.42,In-store
+TXN-2025-0241,BILL-1066,03-06-2025,S3,Suburban,C141,Regular,P601,Dairy,Milk 1L,4,1.14,Credit Card,1.16,In-store
+TXN-2025-0242,BILL-1067,13-03-2025,S2,Uptown,C032,Loyal,P701,Frozen,Frozen Pizza,1,5.47,Credit Card,1.31,In-store
+TXN-2025-0243,BILL-1068,10-10-2025,S4,East Side,C095,Regular,P101,Beverages,Orange Juice 1L,3,3.18,Credit Card,0.46,In-store
+TXN-2025-0244,BILL-1068,27-09-2025,S1,Downtown,C184,New,P102,Beverages,Organic Green Tea 250ml,3,2.18,Credit Card,1.97,In-store
+TXN-2025-0245,BILL-1068,19-08-2025,S4,East Side,C082,New,P801,Produce,Bananas (1kg),2,1.55,UPI,2.31,In-store
+TXN-2025-0246,BILL-1069,28-10-2025,S5,West End,C200,Regular,P302,Personal Care,Toothpaste 100g,5,1.85,Cash,0,Online
+TXN-2025-0247,BILL-1070,23-09-2025,S2,Uptown,C015,New,P401,Household,Laundry Detergent 1kg,2,6.09,UPI,1.27,Online
+TXN-2025-0248,BILL-1070,23-09-2025,S2,Uptown,C058,Regular,P201,Snacks,Potato Chips 150g,1,1.27,Credit Card,1.28,Online
+TXN-2025-0249,BILL-1070,17-11-2025,S1,Downtown,C142,Regular,P301,Personal Care,Shampoo 250ml,2,4.17,Cash,0,In-store
+TXN-2025-0250,BILL-1071,20-03-2025,S5,West End,C152,Loyal,P102,Beverages,Organic Green Tea 250ml,5,2.01,UPI,0,In-store
+TXN-2025-0251,BILL-1072,15-01-2025,S5,West End,C145,Regular,P602,Dairy,Cheddar Cheese 200g,6,3.28,UPI,1.19,In-store
+TXN-2025-0252,BILL-1073,24-11-2025,S5,West End,C147,Regular,P301,Personal Care,Shampoo 250ml,2,4.19,UPI,0,In-store
+TXN-2025-0253,BILL-1073,27-07-2025,S5,West End,C124,Regular,P301,Personal Care,Shampoo 250ml,2,4.52,UPI,0.67,Online
+TXN-2025-0254,BILL-1073,15-04-2025,S1,Downtown,C107,Regular,P602,Dairy,Cheddar Cheese 200g,6,3,Cash,0.85,In-store
+TXN-2025-0255,BILL-1073,08-03-2025,S2,Uptown,C089,Loyal,P302,Personal Care,Toothpaste 100g,5,1.81,UPI,0.24,In-store
+TXN-2025-0256,BILL-1074,19-08-2025,S5,West End,C120,Regular,P501,Bakery,Whole Wheat Bread,2,1.41,Cash,0.12,In-store
+TXN-2025-0257,BILL-1074,23-03-2025,S1,Downtown,C158,Regular,P101,Beverages,Orange Juice 1L,6,3.26,Credit Card,0,Online
+TXN-2025-0258,BILL-1074,21-09-2025,S5,West End,C041,Regular,P602,Dairy,Cheddar Cheese 200g,2,3.06,Credit Card,0,In-store
+TXN-2025-0259,BILL-1075,04-05-2025,S3,Suburban,C101,Regular,P402,Household,Dishwash Liquid 500ml,2,2.79,Cash,1.36,In-store
+TXN-2025-0260,BILL-1075,29-08-2025,S3,Suburban,C153,Loyal,P101,Beverages,Orange Juice 1L,6,3.15,Cash,0.03,In-store
+TXN-2025-0261,BILL-1075,26-07-2025,S1,Downtown,C068,New,P801,Produce,Bananas (1kg),2,1.3,Cash,1.16,In-store
+TXN-2025-0262,BILL-1075,07-02-2025,S4,East Side,C093,Regular,P101,Beverages,Orange Juice 1L,1,3.45,UPI,0.56,In-store
+TXN-2025-0263,BILL-1076,02-03-2025,S4,East Side,C160,New,P701,Frozen,Frozen Pizza,1,5.1,UPI,0.15,In-store
+TXN-2025-0264,BILL-1076,07-07-2025,S1,Downtown,C087,Regular,P401,Household,Laundry Detergent 1kg,3,7.33,Credit Card,0.57,Online
+TXN-2025-0265,BILL-1076,12-03-2025,S2,Uptown,C011,Regular,P502,Bakery,Croissant,4,0.85,UPI,1.33,In-store
+TXN-2025-0266,BILL-1076,10-11-2025,S4,East Side,C132,Regular,P501,Bakery,Whole Wheat Bread,1,1.45,Credit Card,0,In-store
+TXN-2025-0267,BILL-1076,18-09-2025,S4,East Side,C152,Regular,P502,Bakery,Croissant,4,0.96,UPI,0.47,Online
+TXN-2025-0268,BILL-1076,26-02-2025,S5,West End,C095,Regular,P301,Personal Care,Shampoo 250ml,3,4.16,Credit Card,0.84,Online
+TXN-2025-0269,BILL-1076,31-08-2025,S5,West End,C162,Regular,P301,Personal Care,Shampoo 250ml,5,3.69,UPI,2.56,Online
+TXN-2025-0270,BILL-1076,26-09-2025,S5,West End,C150,Regular,P502,Bakery,Croissant,4,0.83,Cash,0.55,In-store
+TXN-2025-0271,BILL-1076,21-10-2025,S5,West End,C175,Regular,P701,Frozen,Frozen Pizza,5,5.03,Credit Card,0.41,In-store
+TXN-2025-0272,BILL-1076,15-04-2025,S1,Downtown,C108,Regular,P202,Snacks,Salted Nuts 100g,5,2.37,Cash,0.62,In-store
+TXN-2025-0273,BILL-1076,17-04-2025,S5,West End,C181,Regular,P402,Household,Dishwash Liquid 500ml,1,2.93,UPI,0.3,In-store
+TXN-2025-0274,BILL-1076,30-09-2025,S4,East Side,C045,Regular,P501,Bakery,Whole Wheat Bread,1,1.55,Credit Card,1.7,In-store
+TXN-2025-0275,BILL-1077,05-09-2025,S3,Suburban,C178,Regular,P601,Dairy,Milk 1L,3,1.1,UPI,0.21,In-store
+TXN-2025-0276,BILL-1077,17-04-2025,S2,Uptown,C077,New,P301,Personal Care,Shampoo 250ml,4,3.93,UPI,0.69,In-store
+TXN-2025-0277,BILL-1077,04-03-2025,S4,East Side,C185,Regular,P302,Personal Care,Toothpaste 100g,1,2.05,Credit Card,0,In-store
+TXN-2025-0278,BILL-1078,29-05-2025,S5,West End,C198,New,P401,Household,Laundry Detergent 1kg,1,5.89,Credit Card,1.9,Online
+TXN-2025-0279,BILL-1078,14-04-2025,S1,Downtown,C192,Regular,P302,Personal Care,Toothpaste 100g,5,2.01,Credit Card,1.08,In-store
+TXN-2025-0280,BILL-1079,28-10-2025,S3,Suburban,C028,New,P501,Bakery,Whole Wheat Bread,3,1.36,UPI,0,In-store
+TXN-2025-0281,BILL-1079,31-07-2025,S1,Downtown,C060,Regular,P601,Dairy,Milk 1L,2,1.08,UPI,0.9,In-store
+TXN-2025-0282,BILL-1079,22-03-2025,S4,East Side,C002,Loyal,P102,Beverages,Organic Green Tea 250ml,1,1.92,UPI,0,Online
+TXN-2025-0283,BILL-1080,27-11-2025,S4,East Side,C074,Regular,P402,Household,Dishwash Liquid 500ml,5,3.08,UPI,1.07,In-store
+TXN-2025-0284,BILL-1080,20-01-2025,S1,Downtown,C190,New,P601,Dairy,Milk 1L,2,1.22,UPI,0.86,In-store
+TXN-2025-0285,BILL-1080,23-07-2025,S2,Uptown,C010,Loyal,P401,Household,Laundry Detergent 1kg,3,7.38,Cash,0,Online
+TXN-2025-0286,BILL-1081,05-11-2025,S2,Uptown,C003,Regular,P602,Dairy,Cheddar Cheese 200g,4,3.6,Credit Card,0,Online
+TXN-2025-0287,BILL-1081,10-03-2025,S3,Suburban,C140,Regular,P301,Personal Care,Shampoo 250ml,1,4.23,Credit Card,0.76,Online
+TXN-2025-0288,BILL-1081,23-08-2025,S4,East Side,C085,Regular,P301,Personal Care,Shampoo 250ml,1,4.02,Cash,0,Online
+TXN-2025-0289,BILL-1082,09-04-2025,S2,Uptown,C076,Regular,P101,Beverages,Orange Juice 1L,2,3.95,UPI,0,In-store
+TXN-2025-0290,BILL-1083,18-02-2025,S4,East Side,C023,Regular,P801,Produce,Bananas (1kg),4,1.39,Credit Card,0,In-store
+TXN-2025-0291,BILL-1083,01-05-2025,S2,Uptown,C002,Regular,P402,Household,Dishwash Liquid 500ml,2,2.54,Credit Card,0,Online
+TXN-2025-0292,BILL-1083,04-07-2025,S3,Suburban,C147,Regular,P302,Personal Care,Toothpaste 100g,1,1.87,Credit Card,1.9,In-store
+TXN-2025-0293,BILL-1083,15-09-2025,S1,Downtown,C041,Regular,P601,Dairy,Milk 1L,1,1.23,Cash,1.28,In-store
+TXN-2025-0294,BILL-1084,24-04-2025,S3,Suburban,C076,Regular,P602,Dairy,Cheddar Cheese 200g,1,3.52,Cash,0.48,In-store
+TXN-2025-0295,BILL-1084,09-10-2025,S2,Uptown,C156,Regular,P402,Household,Dishwash Liquid 500ml,1,2.86,Cash,0.75,In-store
+TXN-2025-0296,BILL-1084,02-11-2025,S5,West End,C196,Regular,P701,Frozen,Frozen Pizza,4,5.29,UPI,0,Online
+TXN-2025-0297,BILL-1085,16-10-2025,S1,Downtown,C093,Regular,P501,Bakery,Whole Wheat Bread,3,1.43,Credit Card,0,In-store
+TXN-2025-0298,BILL-1085,24-09-2025,S5,West End,C039,Regular,P501,Bakery,Whole Wheat Bread,3,1.45,Cash,0.58,In-store
+TXN-2025-0299,BILL-1085,29-01-2025,S2,Uptown,C131,Regular,P602,Dairy,Cheddar Cheese 200g,2,3.61,UPI,0.49,In-store
+TXN-2025-0300,BILL-1085,07-06-2025,S5,West End,C144,Regular,P401,Household,Laundry Detergent 1kg,2,5.96,Credit Card,1.59,In-store
+TXN-2025-0301,BILL-1085,05-08-2025,S4,East Side,C149,Regular,P301,Personal Care,Shampoo 250ml,4,4.25,Cash,0,In-store
+TXN-2025-0302,BILL-1086,30-08-2025,S1,Downtown,C018,Loyal,P501,Bakery,Whole Wheat Bread,1,1.62,Cash,0,Online
+TXN-2025-0303,BILL-1086,04-08-2025,S4,East Side,C187,New,P201,Snacks,Potato Chips 150g,6,1.26,Cash,2.71,Online
+TXN-2025-0304,BILL-1087,04-10-2025,S4,East Side,C175,Loyal,P402,Household,Dishwash Liquid 500ml,2,3.11,Credit Card,0.33,In-store
+TXN-2025-0305,BILL-1087,25-04-2025,S3,Suburban,C101,Regular,P102,Beverages,Organic Green Tea 250ml,1,1.99,Cash,0.91,Online
+TXN-2025-0306,BILL-1087,14-07-2025,S1,Downtown,C140,Regular,P301,Personal Care,Shampoo 250ml,2,3.68,Credit Card,0,In-store
+TXN-2025-0307,BILL-1088,27-02-2025,S2,Uptown,C049,Loyal,P402,Household,Dishwash Liquid 500ml,2,3.06,Credit Card,0.32,In-store
+TXN-2025-0308,BILL-1088,18-01-2025,S4,East Side,C018,Regular,P502,Bakery,Croissant,4,1.02,Cash,1.47,In-store
+TXN-2025-0309,BILL-1088,22-04-2025,S1,Downtown,C113,Regular,P202,Snacks,Salted Nuts 100g,3,2.63,UPI,2.17,In-store
+TXN-2025-0310,BILL-1088,22-10-2025,S1,Downtown,C060,New,P201,Snacks,Potato Chips 150g,2,1.36,UPI,0.26,Online
+TXN-2025-0311,BILL-1088,15-03-2025,S5,West End,C061,Regular,P701,Frozen,Frozen Pizza,2,5.1,UPI,0,Online
+TXN-2025-0312,BILL-1088,30-10-2025,S5,West End,C016,Regular,P202,Snacks,Salted Nuts 100g,1,2.78,Credit Card,0.62,In-store
+TXN-2025-0313,BILL-1088,26-06-2025,S2,Uptown,C127,Regular,P601,Dairy,Milk 1L,1,1.13,UPI,0.12,In-store
+TXN-2025-0314,BILL-1088,03-06-2025,S4,East Side,C107,Regular,P701,Frozen,Frozen Pizza,5,4.93,UPI,2.34,In-store
+TXN-2025-0315,BILL-1088,15-03-2025,S5,West End,C077,Loyal,P402,Household,Dishwash Liquid 500ml,6,3.03,Cash,1.11,Online
+TXN-2025-0316,BILL-1089,18-07-2025,S1,Downtown,C143,Regular,P501,Bakery,Whole Wheat Bread,1,1.52,Credit Card,1.78,Online
+TXN-2025-0317,BILL-1089,17-02-2025,S2,Uptown,C116,New,P302,Personal Care,Toothpaste 100g,2,1.99,UPI,1.29,In-store
+TXN-2025-0318,BILL-1090,07-02-2025,S2,Uptown,C155,New,P101,Beverages,Orange Juice 1L,1,3.99,Credit Card,0.02,In-store
+TXN-2025-0319,BILL-1090,20-06-2025,S5,West End,C123,Regular,P602,Dairy,Cheddar Cheese 200g,4,3.64,UPI,0,In-store
+TXN-2025-0320,BILL-1090,03-09-2025,S1,Downtown,C031,New,P202,Snacks,Salted Nuts 100g,1,2.85,Cash,0.54,Online
+TXN-2025-0321,BILL-1090,25-05-2025,S5,West End,C062,Regular,P602,Dairy,Cheddar Cheese 200g,2,3.47,Cash,1.14,In-store
+TXN-2025-0322,BILL-1090,12-09-2025,S5,West End,C093,Regular,P601,Dairy,Milk 1L,5,1.17,Credit Card,1.24,In-store
+TXN-2025-0323,BILL-1090,24-01-2025,S4,East Side,C095,Regular,P701,Frozen,Frozen Pizza,6,4.81,Credit Card,1.58,Online
+TXN-2025-0324,BILL-1090,24-10-2025,S2,Uptown,C142,Loyal,P602,Dairy,Cheddar Cheese 200g,4,2.92,Cash,1.32,In-store
+TXN-2025-0325,BILL-1090,06-05-2025,S3,Suburban,C098,Regular,P201,Snacks,Potato Chips 150g,2,1.38,Cash,0,In-store
+TXN-2025-0326,BILL-1091,24-08-2025,S3,Suburban,C165,New,P301,Personal Care,Shampoo 250ml,4,3.72,Credit Card,0.28,Online
+TXN-2025-0327,BILL-1091,05-10-2025,S3,Suburban,C126,Regular,P201,Snacks,Potato Chips 150g,5,1.17,Cash,1.4,In-store
+TXN-2025-0328,BILL-1091,25-01-2025,S1,Downtown,C020,Loyal,P501,Bakery,Whole Wheat Bread,1,1.67,Cash,0.44,Online
+TXN-2025-0329,BILL-1091,22-04-2025,S4,East Side,C182,Regular,P201,Snacks,Potato Chips 150g,4,1.24,UPI,0.58,In-store
+TXN-2025-0330,BILL-1092,07-09-2025,S3,Suburban,C158,Loyal,P101,Beverages,Orange Juice 1L,1,3.35,UPI,0.13,In-store
+TXN-2025-0331,BILL-1092,02-10-2025,S5,West End,C136,New,P501,Bakery,Whole Wheat Bread,5,1.68,Credit Card,0,In-store
+TXN-2025-0332,BILL-1092,19-02-2025,S1,Downtown,C046,Regular,P501,Bakery,Whole Wheat Bread,5,1.56,UPI,0,In-store
+TXN-2025-0333,BILL-1093,23-07-2025,S2,Uptown,C091,Regular,P202,Snacks,Salted Nuts 100g,3,2.59,UPI,1.33,In-store
+TXN-2025-0334,BILL-1093,11-02-2025,S4,East Side,C179,Regular,P402,Household,Dishwash Liquid 500ml,1,3.14,UPI,0,In-store
+TXN-2025-0335,BILL-1094,23-11-2025,S1,Downtown,C142,Regular,P102,Beverages,Organic Green Tea 250ml,1,1.81,Credit Card,1.07,In-store
+TXN-2025-0336,BILL-1094,17-10-2025,S2,Uptown,C166,New,P102,Beverages,Organic Green Tea 250ml,4,2.2,Credit Card,0.54,Online
+TXN-2025-0337,BILL-1094,01-09-2025,S1,Downtown,C178,Loyal,P501,Bakery,Whole Wheat Bread,1,1.35,Cash,0.09,In-store
+TXN-2025-0338,BILL-1094,02-04-2025,S1,Downtown,C145,New,P601,Dairy,Milk 1L,5,1.16,Credit Card,0,Online
+TXN-2025-0339,BILL-1094,23-07-2025,S3,Suburban,C193,New,P101,Beverages,Orange Juice 1L,6,3.39,Cash,0.14,In-store
+TXN-2025-0340,BILL-1094,04-10-2025,S3,Suburban,C100,New,P201,Snacks,Potato Chips 150g,2,1.21,UPI,1.66,In-store
+TXN-2025-0341,BILL-1095,27-06-2025,S2,Uptown,C129,New,P701,Frozen,Frozen Pizza,1,5.42,UPI,0.26,In-store
+TXN-2025-0342,BILL-1095,01-11-2025,S4,East Side,C197,New,P202,Snacks,Salted Nuts 100g,2,2.43,Cash,0,In-store
+TXN-2025-0343,BILL-1095,02-07-2025,S3,Suburban,C116,Regular,P101,Beverages,Orange Juice 1L,2,3.78,UPI,0.47,In-store
+TXN-2025-0344,BILL-1095,13-11-2025,S4,East Side,C170,Regular,P401,Household,Laundry Detergent 1kg,5,6.47,Cash,0.69,In-store
+TXN-2025-0345,BILL-1096,21-11-2025,S2,Uptown,C040,Regular,P602,Dairy,Cheddar Cheese 200g,2,2.98,Cash,1.29,In-store
+TXN-2025-0346,BILL-1096,16-08-2025,S4,East Side,C002,Loyal,P302,Personal Care,Toothpaste 100g,1,2.05,Credit Card,0.33,In-store
+TXN-2025-0347,BILL-1096,12-10-2025,S3,Suburban,C111,Regular,P102,Beverages,Organic Green Tea 250ml,2,1.88,Cash,0.38,In-store
+TXN-2025-0348,BILL-1096,16-06-2025,S1,Downtown,C024,Regular,P101,Beverages,Orange Juice 1L,3,3.88,Cash,0,In-store
+TXN-2025-0349,BILL-1096,14-10-2025,S1,Downtown,C022,New,P301,Personal Care,Shampoo 250ml,1,4.21,Credit Card,0.17,In-store
+TXN-2025-0350,BILL-1096,18-05-2025,S2,Uptown,C098,Regular,P502,Bakery,Croissant,5,1.03,UPI,0.42,In-store
+TXN-2025-0351,BILL-1096,05-09-2025,S4,East Side,C071,Regular,P201,Snacks,Potato Chips 150g,2,1.19,Cash,0,In-store
+TXN-2025-0352,BILL-1096,11-04-2025,S3,Suburban,C127,Regular,P301,Personal Care,Shampoo 250ml,2,4.12,Cash,0.96,In-store
+TXN-2025-0353,BILL-1096,14-07-2025,S2,Uptown,C086,New,P301,Personal Care,Shampoo 250ml,1,4.59,Cash,1.14,Online
+TXN-2025-0354,BILL-1096,11-03-2025,S3,Suburban,C167,Loyal,P402,Household,Dishwash Liquid 500ml,1,2.63,Credit Card,1.34,In-store
+TXN-2025-0355,BILL-1096,13-06-2025,S5,West End,C046,Loyal,P602,Dairy,Cheddar Cheese 200g,5,3.06,Cash,0,In-store
+TXN-2025-0356,BILL-1096,21-07-2025,S4,East Side,C072,New,P502,Bakery,Croissant,6,0.87,Cash,0,In-store
+TXN-2025-0357,BILL-1097,09-10-2025,S5,West End,C047,New,P202,Snacks,Salted Nuts 100g,1,2.28,UPI,0.73,Online
+TXN-2025-0358,BILL-1097,05-02-2025,S4,East Side,C075,New,P602,Dairy,Cheddar Cheese 200g,2,3.4,Cash,0.77,In-store
+TXN-2025-0359,BILL-1097,20-03-2025,S4,East Side,C078,Regular,P601,Dairy,Milk 1L,1,1.19,Credit Card,0,In-store
+TXN-2025-0360,BILL-1097,01-10-2025,S4,East Side,C123,Regular,P102,Beverages,Organic Green Tea 250ml,2,1.93,Credit Card,0,Online
+TXN-2025-0361,BILL-1097,02-10-2025,S4,East Side,C093,New,P501,Bakery,Whole Wheat Bread,1,1.37,Cash,0.09,Online
+TXN-2025-0362,BILL-1098,10-11-2025,S1,Downtown,C091,Regular,P102,Beverages,Organic Green Tea 250ml,5,2.23,Cash,0.68,In-store
+TXN-2025-0363,BILL-1098,20-02-2025,S4,East Side,C111,Regular,P701,Frozen,Frozen Pizza,1,5.6,Credit Card,0.11,Online
+TXN-2025-0364,BILL-1098,17-08-2025,S5,West End,C177,Regular,P602,Dairy,Cheddar Cheese 200g,1,3.42,UPI,1.34,In-store
+TXN-2025-0365,BILL-1098,13-01-2025,S4,East Side,C129,Regular,P701,Frozen,Frozen Pizza,1,5.6,UPI,0.2,In-store
+TXN-2025-0366,BILL-1098,09-06-2025,S3,Suburban,C187,Regular,P401,Household,Laundry Detergent 1kg,6,6.11,Cash,0.94,In-store
+TXN-2025-0367,BILL-1098,20-08-2025,S2,Uptown,C025,Regular,P501,Bakery,Whole Wheat Bread,6,1.48,Credit Card,0,In-store
+TXN-2025-0368,BILL-1098,26-03-2025,S3,Suburban,C088,New,P101,Beverages,Orange Juice 1L,6,3.92,UPI,0.98,In-store
+TXN-2025-0369,BILL-1099,25-08-2025,S2,Uptown,C085,Regular,P501,Bakery,Whole Wheat Bread,4,1.36,Cash,0.68,In-store
+TXN-2025-0370,BILL-1099,15-01-2025,S4,East Side,C169,Regular,P601,Dairy,Milk 1L,1,0.99,Cash,0.38,In-store
+TXN-2025-0371,BILL-1099,16-04-2025,S2,Uptown,C002,New,P402,Household,Dishwash Liquid 500ml,4,3.1,UPI,1.02,In-store
+TXN-2025-0372,BILL-1100,16-06-2025,S1,Downtown,C138,Regular,P502,Bakery,Croissant,1,0.84,Cash,0,Online
+TXN-2025-0373,BILL-1100,10-06-2025,S1,Downtown,C136,Loyal,P301,Personal Care,Shampoo 250ml,5,4.23,UPI,0.32,Online
+TXN-2025-0374,BILL-1101,13-11-2025,S5,West End,C091,New,P401,Household,Laundry Detergent 1kg,4,6.31,UPI,0.65,In-store
+TXN-2025-0375,BILL-1101,03-05-2025,S3,Suburban,C035,Regular,P502,Bakery,Croissant,1,0.93,UPI,1.47,In-store
+TXN-2025-0376,BILL-1101,12-03-2025,S2,Uptown,C100,Regular,P302,Personal Care,Toothpaste 100g,3,2.04,UPI,0,In-store
+TXN-2025-0377,BILL-1101,30-03-2025,S4,East Side,C178,Loyal,P201,Snacks,Potato Chips 150g,2,1.36,Credit Card,0.35,In-store
+TXN-2025-0378,BILL-1101,03-07-2025,S4,East Side,C116,New,P301,Personal Care,Shampoo 250ml,3,4.31,Cash,0.18,In-store
+TXN-2025-0379,BILL-1101,11-09-2025,S4,East Side,C144,Regular,P201,Snacks,Potato Chips 150g,3,1.29,Cash,1.46,Online
+TXN-2025-0380,BILL-1102,17-10-2025,S4,East Side,C126,Regular,P401,Household,Laundry Detergent 1kg,1,5.92,UPI,0,Online
+TXN-2025-0381,BILL-1102,23-08-2025,S2,Uptown,C138,Regular,P301,Personal Care,Shampoo 250ml,2,4.59,Cash,1.38,In-store
+TXN-2025-0382,BILL-1102,06-10-2025,S4,East Side,C030,Regular,P501,Bakery,Whole Wheat Bread,1,1.49,UPI,1.88,In-store
+TXN-2025-0383,BILL-1103,06-08-2025,S3,Suburban,C113,Regular,P501,Bakery,Whole Wheat Bread,1,1.47,Cash,0.41,Online
+TXN-2025-0384,BILL-1103,14-02-2025,S2,Uptown,C090,Loyal,P301,Personal Care,Shampoo 250ml,1,4.54,Cash,0,In-store
+TXN-2025-0385,BILL-1103,29-06-2025,S1,Downtown,C189,Regular,P701,Frozen,Frozen Pizza,4,5.06,Cash,1.54,In-store
+TXN-2025-0386,BILL-1103,16-04-2025,S5,West End,C036,New,P601,Dairy,Milk 1L,1,1.07,Credit Card,0.59,In-store
+TXN-2025-0387,BILL-1103,30-05-2025,S5,West End,C138,Regular,P302,Personal Care,Toothpaste 100g,2,1.97,UPI,0,In-store
+TXN-2025-0388,BILL-1103,11-03-2025,S3,Suburban,C174,New,P801,Produce,Bananas (1kg),5,1.59,UPI,1.2,Online
+TXN-2025-0389,BILL-1104,09-03-2025,S4,East Side,C033,New,P101,Beverages,Orange Juice 1L,2,3.53,Credit Card,0,Online
+TXN-2025-0390,BILL-1104,14-03-2025,S3,Suburban,C174,Regular,P801,Produce,Bananas (1kg),3,1.37,Cash,0.05,Online
+TXN-2025-0391,BILL-1104,17-02-2025,S3,Suburban,C020,New,P601,Dairy,Milk 1L,1,1.05,Credit Card,0.56,In-store
+TXN-2025-0392,BILL-1104,02-01-2025,S3,Suburban,C125,Regular,P602,Dairy,Cheddar Cheese 200g,5,3.17,Credit Card,0.32,In-store
+TXN-2025-0393,BILL-1104,02-02-2025,S1,Downtown,C179,Regular,P602,Dairy,Cheddar Cheese 200g,6,3.01,Credit Card,0.77,In-store
+TXN-2025-0394,BILL-1104,26-05-2025,S4,East Side,C127,Regular,P202,Snacks,Salted Nuts 100g,1,2.73,Credit Card,0.87,Online
+TXN-2025-0395,BILL-1105,25-01-2025,S5,West End,C088,Loyal,P201,Snacks,Potato Chips 150g,1,1.31,UPI,0,Online
+TXN-2025-0396,BILL-1105,01-01-2025,S4,East Side,C041,Regular,P101,Beverages,Orange Juice 1L,1,3.95,Cash,1.25,Online
+TXN-2025-0397,BILL-1106,21-05-2025,S4,East Side,C167,Regular,P202,Snacks,Salted Nuts 100g,6,2.37,UPI,0,Online
+TXN-2025-0398,BILL-1106,22-07-2025,S3,Suburban,C167,Regular,P301,Personal Care,Shampoo 250ml,6,4.16,Cash,0.98,In-store
+TXN-2025-0399,BILL-1107,02-09-2025,S2,Uptown,C025,Regular,P401,Household,Laundry Detergent 1kg,3,6.11,UPI,0,In-store
+TXN-2025-0400,BILL-1107,25-06-2025,S5,West End,C003,Regular,P202,Snacks,Salted Nuts 100g,1,2.75,UPI,0.95,In-store
+TXN-2025-0401,BILL-1108,22-02-2025,S4,East Side,C059,Regular,P602,Dairy,Cheddar Cheese 200g,1,2.89,Cash,0,In-store
+TXN-2025-0402,BILL-1108,25-11-2025,S3,Suburban,C193,Loyal,P301,Personal Care,Shampoo 250ml,3,4.57,Cash,1.8,In-store
+TXN-2025-0403,BILL-1108,14-08-2025,S2,Uptown,C157,New,P102,Beverages,Organic Green Tea 250ml,6,1.95,UPI,0.8,In-store
+TXN-2025-0404,BILL-1108,15-08-2025,S2,Uptown,C106,New,P601,Dairy,Milk 1L,3,1,UPI,0.88,In-store
+TXN-2025-0405,BILL-1108,29-06-2025,S1,Downtown,C151,New,P102,Beverages,Organic Green Tea 250ml,6,2.17,Cash,0.5,Online
+TXN-2025-0406,BILL-1108,11-10-2025,S3,Suburban,C166,Regular,P701,Frozen,Frozen Pizza,2,5.27,Cash,0,In-store
+TXN-2025-0407,BILL-1108,16-04-2025,S5,West End,C169,Loyal,P301,Personal Care,Shampoo 250ml,5,3.95,UPI,0,In-store
+TXN-2025-0408,BILL-1108,03-05-2025,S5,West End,C166,Regular,P202,Snacks,Salted Nuts 100g,1,2.47,UPI,0.53,In-store
+TXN-2025-0409,BILL-1108,07-01-2025,S1,Downtown,C019,Regular,P202,Snacks,Salted Nuts 100g,3,2.77,Credit Card,1.01,In-store
+TXN-2025-0410,BILL-1108,07-10-2025,S3,Suburban,C146,Regular,P201,Snacks,Potato Chips 150g,4,1.33,Credit Card,0,Online
+TXN-2025-0411,BILL-1109,21-04-2025,S4,East Side,C018,Regular,P701,Frozen,Frozen Pizza,5,5.34,Cash,1.62,In-store
+TXN-2025-0412,BILL-1109,01-08-2025,S1,Downtown,C161,New,P701,Frozen,Frozen Pizza,3,4.54,Credit Card,1.24,In-store
+TXN-2025-0413,BILL-1109,12-02-2025,S4,East Side,C158,Regular,P102,Beverages,Organic Green Tea 250ml,6,2.11,UPI,1.06,In-store
+TXN-2025-0414,BILL-1109,29-11-2025,S5,West End,C101,Regular,P202,Snacks,Salted Nuts 100g,2,2.7,Cash,0.81,In-store
+TXN-2025-0415,BILL-1109,14-02-2025,S1,Downtown,C062,Regular,P301,Personal Care,Shampoo 250ml,4,3.94,UPI,1.02,In-store
+TXN-2025-0416,BILL-1110,31-03-2025,S1,Downtown,C080,New,P402,Household,Dishwash Liquid 500ml,3,2.94,UPI,2.08,In-store
+TXN-2025-0417,BILL-1111,13-05-2025,S2,Uptown,C089,Regular,P602,Dairy,Cheddar Cheese 200g,1,3.24,Cash,1.85,In-store
+TXN-2025-0418,BILL-1111,16-01-2025,S2,Uptown,C031,New,P602,Dairy,Cheddar Cheese 200g,6,3.35,Credit Card,0.13,In-store
+TXN-2025-0419,BILL-1112,18-11-2025,S4,East Side,C183,Loyal,P301,Personal Care,Shampoo 250ml,1,4.47,UPI,0.92,In-store
+TXN-2025-0420,BILL-1112,22-03-2025,S4,East Side,C146,Regular,P501,Bakery,Whole Wheat Bread,1,1.6,Credit Card,0.04,In-store
+TXN-2025-0421,BILL-1113,02-01-2025,S1,Downtown,C059,New,P502,Bakery,Croissant,3,0.85,UPI,0,In-store
+TXN-2025-0422,BILL-1113,02-04-2025,S1,Downtown,C099,Loyal,P202,Snacks,Salted Nuts 100g,6,2.87,Cash,1.1,In-store
+TXN-2025-0423,BILL-1113,08-05-2025,S1,Downtown,C108,Regular,P501,Bakery,Whole Wheat Bread,1,1.53,UPI,0.1,In-store
+TXN-2025-0424,BILL-1114,27-01-2025,S3,Suburban,C031,Regular,P301,Personal Care,Shampoo 250ml,1,3.63,Cash,0.67,In-store
+TXN-2025-0425,BILL-1114,09-06-2025,S5,West End,C120,Loyal,P101,Beverages,Orange Juice 1L,1,3.89,Credit Card,0.82,In-store
+TXN-2025-0426,BILL-1114,05-06-2025,S5,West End,C075,Regular,P402,Household,Dishwash Liquid 500ml,2,3.04,Cash,1.02,In-store
+TXN-2025-0427,BILL-1114,11-04-2025,S2,Uptown,C127,Loyal,P402,Household,Dishwash Liquid 500ml,2,2.96,Credit Card,2.98,In-store
+TXN-2025-0428,BILL-1114,05-10-2025,S5,West End,C105,Regular,P701,Frozen,Frozen Pizza,6,5.14,Cash,0.78,In-store
+TXN-2025-0429,BILL-1115,07-06-2025,S1,Downtown,C097,New,P302,Personal Care,Toothpaste 100g,2,1.82,Cash,1.75,Online
+TXN-2025-0430,BILL-1115,14-03-2025,S5,West End,C016,Loyal,P202,Snacks,Salted Nuts 100g,2,2.62,Credit Card,0,In-store
+TXN-2025-0431,BILL-1115,10-07-2025,S1,Downtown,C134,Regular,P101,Beverages,Orange Juice 1L,1,3.52,Cash,1.14,Online
+TXN-2025-0432,BILL-1115,08-02-2025,S1,Downtown,C164,New,P502,Bakery,Croissant,1,0.86,Cash,0.64,In-store
+TXN-2025-0433,BILL-1115,11-06-2025,S1,Downtown,C061,Regular,P401,Household,Laundry Detergent 1kg,1,6.88,UPI,0.82,Online
+TXN-2025-0434,BILL-1115,08-02-2025,S4,East Side,C116,Regular,P602,Dairy,Cheddar Cheese 200g,4,3.61,UPI,0,In-store
+TXN-2025-0435,BILL-1115,27-08-2025,S2,Uptown,C028,Regular,P701,Frozen,Frozen Pizza,1,5.29,UPI,0.76,In-store
+TXN-2025-0436,BILL-1115,26-08-2025,S1,Downtown,C054,Regular,P501,Bakery,Whole Wheat Bread,3,1.53,Credit Card,0.27,Online
+TXN-2025-0437,BILL-1116,05-11-2025,S1,Downtown,C078,New,P102,Beverages,Organic Green Tea 250ml,5,2.24,Cash,1.95,Online
+TXN-2025-0438,BILL-1116,26-01-2025,S3,Suburban,C092,Regular,P201,Snacks,Potato Chips 150g,1,1.11,Cash,1.21,In-store
+TXN-2025-0439,BILL-1116,12-10-2025,S3,Suburban,C104,Loyal,P801,Produce,Bananas (1kg),6,1.4,Cash,1.34,In-store
+TXN-2025-0440,BILL-1116,01-02-2025,S2,Uptown,C036,Regular,P102,Beverages,Organic Green Tea 250ml,1,1.8,Credit Card,0.26,In-store
+TXN-2025-0441,BILL-1117,27-11-2025,S2,Uptown,C096,New,P201,Snacks,Potato Chips 150g,5,1.31,Cash,0,Online
+TXN-2025-0442,BILL-1117,27-11-2025,S5,West End,C017,Regular,P301,Personal Care,Shampoo 250ml,1,3.83,Cash,0.06,In-store
+TXN-2025-0443,BILL-1117,21-10-2025,S2,Uptown,C119,Regular,P102,Beverages,Organic Green Tea 250ml,6,2.02,Credit Card,0,In-store
+TXN-2025-0444,BILL-1117,20-04-2025,S4,East Side,C110,Regular,P402,Household,Dishwash Liquid 500ml,1,2.95,Cash,0.16,In-store
+TXN-2025-0445,BILL-1118,12-11-2025,S3,Suburban,C009,New,P301,Personal Care,Shampoo 250ml,3,3.85,Credit Card,1.18,Online
+TXN-2025-0446,BILL-1118,24-05-2025,S3,Suburban,C123,Regular,P402,Household,Dishwash Liquid 500ml,1,2.85,Credit Card,1.48,Online
+TXN-2025-0447,BILL-1118,06-10-2025,S4,East Side,C135,Regular,P202,Snacks,Salted Nuts 100g,5,2.69,UPI,1.32,Online
+TXN-2025-0448,BILL-1118,26-06-2025,S4,East Side,C140,New,P701,Frozen,Frozen Pizza,2,4.76,UPI,0.69,In-store
+TXN-2025-0449,BILL-1119,23-04-2025,S5,West End,C007,Regular,P302,Personal Care,Toothpaste 100g,1,1.74,Credit Card,0.24,In-store
+TXN-2025-0450,BILL-1119,30-04-2025,S3,Suburban,C197,Regular,P101,Beverages,Orange Juice 1L,1,3.2,Credit Card,0.14,In-store
+TXN-2025-0451,BILL-1119,29-01-2025,S1,Downtown,C137,New,P202,Snacks,Salted Nuts 100g,3,2.33,UPI,0.65,In-store
+TXN-2025-0452,BILL-1119,31-10-2025,S2,Uptown,C045,Regular,P502,Bakery,Croissant,2,0.96,Credit Card,0,In-store
+TXN-2025-0453,BILL-1120,16-10-2025,S3,Suburban,C091,Loyal,P502,Bakery,Croissant,5,1.03,Cash,0,In-store
+TXN-2025-0454,BILL-1121,16-02-2025,S2,Uptown,C045,Regular,P801,Produce,Bananas (1kg),4,1.44,Credit Card,0.9,In-store
+TXN-2025-0455,BILL-1122,11-11-2025,S5,West End,C001,Regular,P202,Snacks,Salted Nuts 100g,2,2.67,Cash,0,In-store
+TXN-2025-0456,BILL-1122,17-03-2025,S2,Uptown,C083,Regular,P302,Personal Care,Toothpaste 100g,4,1.7,UPI,0.9,In-store
+TXN-2025-0457,BILL-1122,11-07-2025,S2,Uptown,C094,Loyal,P701,Frozen,Frozen Pizza,3,5.34,Cash,0.35,Online
+TXN-2025-0458,BILL-1122,22-03-2025,S4,East Side,C083,Regular,P502,Bakery,Croissant,4,0.97,Cash,0.67,In-store
+TXN-2025-0459,BILL-1122,15-10-2025,S4,East Side,C167,Regular,P701,Frozen,Frozen Pizza,1,5.72,UPI,1.03,Online
+TXN-2025-0460,BILL-1122,13-07-2025,S5,West End,C151,New,P701,Frozen,Frozen Pizza,1,5.58,Credit Card,0.09,In-store
+TXN-2025-0461,BILL-1122,20-07-2025,S3,Suburban,C180,Loyal,P201,Snacks,Potato Chips 150g,5,1.09,Cash,0.99,In-store
+TXN-2025-0462,BILL-1123,17-10-2025,S5,West End,C157,Regular,P101,Beverages,Orange Juice 1L,2,3.87,Cash,0.61,In-store
+TXN-2025-0463,BILL-1124,13-06-2025,S4,East Side,C061,Regular,P201,Snacks,Potato Chips 150g,1,1.25,Credit Card,0.45,In-store
+TXN-2025-0464,BILL-1125,17-08-2025,S1,Downtown,C187,Loyal,P801,Produce,Bananas (1kg),6,1.56,UPI,0.76,In-store
+TXN-2025-0465,BILL-1126,01-01-2025,S2,Uptown,C066,New,P202,Snacks,Salted Nuts 100g,6,2.31,UPI,0.74,In-store
+TXN-2025-0466,BILL-1126,13-07-2025,S4,East Side,C106,Regular,P602,Dairy,Cheddar Cheese 200g,2,3.49,Credit Card,0,Online
+TXN-2025-0467,BILL-1127,26-04-2025,S4,East Side,C148,New,P102,Beverages,Organic Green Tea 250ml,3,2.13,Credit Card,1.13,Online
+TXN-2025-0468,BILL-1128,23-02-2025,S1,Downtown,C082,Regular,P701,Frozen,Frozen Pizza,3,4.97,Cash,0.19,In-store
+TXN-2025-0469,BILL-1128,17-02-2025,S2,Uptown,C141,Loyal,P401,Household,Laundry Detergent 1kg,2,6.9,Cash,0,In-store
+TXN-2025-0470,BILL-1129,11-08-2025,S5,West End,C168,Regular,P402,Household,Dishwash Liquid 500ml,2,2.8,UPI,0,In-store
+TXN-2025-0471,BILL-1129,04-10-2025,S1,Downtown,C105,New,P302,Personal Care,Toothpaste 100g,6,1.79,Cash,1.35,Online
+TXN-2025-0472,BILL-1130,09-09-2025,S3,Suburban,C101,Regular,P301,Personal Care,Shampoo 250ml,3,4.04,Cash,2.3,In-store
+TXN-2025-0473,BILL-1131,03-09-2025,S3,Suburban,C170,New,P101,Beverages,Orange Juice 1L,1,3.21,Credit Card,0.86,In-store
+TXN-2025-0474,BILL-1131,01-03-2025,S1,Downtown,C021,Regular,P202,Snacks,Salted Nuts 100g,6,2.72,Cash,0,In-store
+TXN-2025-0475,BILL-1131,06-10-2025,S4,East Side,C068,Regular,P402,Household,Dishwash Liquid 500ml,5,2.79,Credit Card,0,Online
+TXN-2025-0476,BILL-1131,27-08-2025,S3,Suburban,C012,Regular,P401,Household,Laundry Detergent 1kg,6,5.89,Credit Card,2.33,In-store
+TXN-2025-0477,BILL-1131,13-02-2025,S3,Suburban,C179,New,P502,Bakery,Croissant,1,0.9,Cash,0,In-store
+TXN-2025-0478,BILL-1131,25-09-2025,S5,West End,C016,New,P401,Household,Laundry Detergent 1kg,4,6.62,UPI,0.64,In-store
+TXN-2025-0479,BILL-1131,10-02-2025,S5,West End,C061,Regular,P601,Dairy,Milk 1L,1,1.21,Credit Card,0.64,In-store
+TXN-2025-0480,BILL-1132,14-11-2025,S1,Downtown,C147,New,P501,Bakery,Whole Wheat Bread,4,1.66,UPI,1.96,Online
+TXN-2025-0481,BILL-1133,05-08-2025,S4,East Side,C050,Regular,P201,Snacks,Potato Chips 150g,2,1.35,Cash,0.3,Online
+TXN-2025-0482,BILL-1134,04-02-2025,S4,East Side,C153,Regular,P202,Snacks,Salted Nuts 100g,2,2.83,UPI,0.81,In-store
+TXN-2025-0483,BILL-1134,07-01-2025,S5,West End,C071,Regular,P401,Household,Laundry Detergent 1kg,3,7.37,UPI,0.13,In-store
+TXN-2025-0484,BILL-1134,17-03-2025,S5,West End,C029,Regular,P502,Bakery,Croissant,2,0.95,UPI,0.16,Online
+TXN-2025-0485,BILL-1134,27-05-2025,S5,West End,C145,New,P701,Frozen,Frozen Pizza,1,4.86,Cash,0,Online
+TXN-2025-0486,BILL-1135,31-08-2025,S3,Suburban,C125,Regular,P401,Household,Laundry Detergent 1kg,1,7.02,Credit Card,0.63,In-store
+TXN-2025-0487,BILL-1135,20-01-2025,S3,Suburban,C175,New,P401,Household,Laundry Detergent 1kg,2,6.29,Cash,0.57,In-store
+TXN-2025-0488,BILL-1136,10-07-2025,S3,Suburban,C122,Loyal,P602,Dairy,Cheddar Cheese 200g,4,2.98,Cash,1.55,In-store
+TXN-2025-0489,BILL-1137,27-04-2025,S3,Suburban,C179,New,P301,Personal Care,Shampoo 250ml,4,4.13,Credit Card,1.26,Online
+TXN-2025-0490,BILL-1138,15-02-2025,S4,East Side,C107,New,P701,Frozen,Frozen Pizza,5,4.73,Credit Card,0,In-store
+TXN-2025-0491,BILL-1138,11-07-2025,S2,Uptown,C195,Regular,P801,Produce,Bananas (1kg),2,1.6,Credit Card,0.88,In-store
+TXN-2025-0492,BILL-1138,11-03-2025,S5,West End,C182,Regular,P701,Frozen,Frozen Pizza,4,4.64,Cash,0,In-store
+TXN-2025-0493,BILL-1139,08-05-2025,S5,West End,C052,New,P502,Bakery,Croissant,2,0.95,Cash,0.27,In-store
+TXN-2025-0494,BILL-1139,16-09-2025,S1,Downtown,C095,New,P302,Personal Care,Toothpaste 100g,5,1.72,UPI,0.82,In-store
+TXN-2025-0495,BILL-1139,01-04-2025,S1,Downtown,C126,Regular,P601,Dairy,Milk 1L,5,1.1,Cash,0.75,In-store
+TXN-2025-0496,BILL-1139,13-05-2025,S4,East Side,C042,New,P502,Bakery,Croissant,2,0.87,UPI,1.71,In-store
+TXN-2025-0497,BILL-1139,20-04-2025,S1,Downtown,C042,Loyal,P301,Personal Care,Shampoo 250ml,1,3.87,Cash,0.85,In-store
+TXN-2025-0498,BILL-1139,05-01-2025,S2,Uptown,C105,Regular,P601,Dairy,Milk 1L,1,1.21,Cash,1.21,In-store
+TXN-2025-0499,BILL-1139,08-11-2025,S2,Uptown,C003,Regular,P601,Dairy,Milk 1L,1,1.16,Cash,0,In-store
+TXN-2025-0500,BILL-1139,28-06-2025,S3,Suburban,C109,Loyal,P602,Dairy,Cheddar Cheese 200g,1,3.07,UPI,0.3,In-store
